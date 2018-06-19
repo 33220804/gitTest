@@ -1,0 +1,25 @@
+From eff1612517d498e61d754dac710ae16571c75c07 Mon Sep 17 00:00:00 2001
+From: zml <965961989@qq.com>
+Date: Tue, 19 Jun 2018 22:24:38 +0800
+Subject: [PATCH] =?UTF-8?q?=E6=B7=BB=E5=8A=A0=E5=8D=87=E7=BA=A7=E6=96=87?=
+ =?UTF-8?q?=E4=BB=B62?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ "GitTest/\345\215\207\347\272\247\346\226\207\344\273\2662.txt" | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 "GitTest/\345\215\207\347\272\247\346\226\207\344\273\2662.txt"
+
+diff --git "a/GitTest/\345\215\207\347\272\247\346\226\207\344\273\2662.txt" "b/GitTest/\345\215\207\347\272\247\346\226\207\344\273\2662.txt"
+new file mode 100644
+index 0000000..6aca470
+--- /dev/null
++++ "b/GitTest/\345\215\207\347\272\247\346\226\207\344\273\2662.txt"
+@@ -0,0 +1 @@
++啊打发士大夫
+\ No newline at end of file
+-- 
+2.11.0.windows.1
+

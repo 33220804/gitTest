@@ -1,0 +1,25 @@
+From 77162d6800d7d6918b2b6691497040f5d41e5d5e Mon Sep 17 00:00:00 2001
+From: zml <965961989@qq.com>
+Date: Tue, 19 Jun 2018 21:56:39 +0800
+Subject: [PATCH 1/2] =?UTF-8?q?=E4=BF=AE=E6=94=B9test=E6=96=87=E4=BB=B6?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ GitTest/test.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/GitTest/test.txt b/GitTest/test.txt
+index c51d0c7..337eee6 100644
+--- a/GitTest/test.txt
++++ b/GitTest/test.txt
+@@ -1 +1,2 @@
+-啊手动阀手动阀
+\ No newline at end of file
++啊手动阀手动阀
++asdfasf
+\ No newline at end of file
+-- 
+2.11.0.windows.1
+
